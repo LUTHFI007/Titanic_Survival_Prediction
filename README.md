@@ -85,5 +85,3 @@ ___
 # Insights:
 Models perform similarly, but feature importances differ, suggesting potential multicollinearity (e.g., between who_man and sex).
 
-```bash
-pip install numpy pandas matplotlib scikit-learn seaborn
